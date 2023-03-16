@@ -14,5 +14,5 @@ The main purpose of mine working on this application was to understand how A-sta
 
 Credits:
 
-I followed Tech with Tim's tutorial for this application so all the credit goes to him. My soul purpose for creating this application was to learn.
+I followed Tech with Tim's tutorial for this application so all the credit goes to him. My sole purpose for creating this application was to learn.
 
