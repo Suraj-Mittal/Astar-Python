@@ -10,7 +10,7 @@ It is a visualizer for one of the various path finding algorithms which is A-sta
 
 What was the purpose of the application?
 
-The main purpose of mine working on this application was to understand how A-star path finding algorithm ans also to practice my python skill which I just learned recently during my summer break.
+The main purpose of mine working on this application was to understand how A-star path finding algorithm and also to practice my python skill which I just learned recently during my summer break.
 
 Credits:
 
